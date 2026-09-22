@@ -3,7 +3,7 @@
 # Hi, I'm Udit Anand 👋
 
 <a href="https://github.com/UditAnand85">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&height=45&lines=AI%2FML+Developer;Full+Stack+Developer;Agentic+AI+Developer;DSA+%26+Problem+Solver;GATE+2026+DA+AIR+1863" alt="AI/ML Developer | Full Stack Developer | Agentic AI Developer | DSA & Problem Solver | GATE 2026 DA AIR 1863" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&height=45&lines=GATE+2026+DA+AIR+1863;AI%2FML+Developer;Full+Stack+Developer;Agentic+AI+Developer;DSA+%26+Problem+Solver" alt="AI/ML Developer | Full Stack Developer | Agentic AI Developer | DSA & Problem Solver | GATE 2026 DA AIR 1863" />
 </a>
 
 <br>
